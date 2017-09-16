@@ -1,0 +1,24 @@
+{
+  "name": "dbmigrate",
+  "version": "1.0.0",
+  "description": "Testin migrate",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatchul/node-migrate.git"
+  },
+  "author": "Fatchul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatchul/node-migrate/issues"
+  },
+  "homepage": "https://github.com/fatchul/node-migrate#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-execute": "^0.2.2"
+  }
+}
